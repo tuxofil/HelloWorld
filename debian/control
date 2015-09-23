@@ -1,0 +1,15 @@
+Source: helloworld
+Section: utils
+Priority: extra
+Maintainer: Aleksey Morarash <aleksey.morarash@gmail.com>
+Build-Depends: debhelper (>= 8.0.0), gcc
+Standards-Version: 3.9.3
+Homepage: https://github.com/tuxofil/HelloWorld
+Vcs-Browser: https://github.com/tuxofil/HelloWorld
+Vcs-Git: https://github.com/tuxofil/HelloWorld.git
+
+Package: helloworld
+Architecture: any
+Description: Absolutely useless tool
+ This useless tool provides an excellent example of
+ bull shit you can find in the Net.

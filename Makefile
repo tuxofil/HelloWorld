@@ -2,7 +2,7 @@
 
 compile: HelloWorld
 
-HelloWorld: HelloWorld.c
+HelloWorld: HelloWorld.c HelloWorld.h
 	@echo '*** Building...'
 	gcc -o $@ $<
 

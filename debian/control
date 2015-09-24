@@ -13,3 +13,9 @@ Architecture: any
 Description: Absolutely useless tool
  This useless tool provides an excellent example of
  bull shit you can find in the Net.
+
+Package: helloworld-dev
+Architecture: all
+Description: Insignificant header files of useless tool
+ With this header files you really can't do anything
+ meaningful. Even don't try!
